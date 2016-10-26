@@ -50,7 +50,14 @@ namespace TiendaDAL
                 SqlDataReader dr = cmd.ExecuteReader();
                 if (dr.Read())
                 {
-                    vehiculos = DataReaderMapToList<Vehiculo>(dr);
+                    //vehiculos = DataReaderMapToList<Vehiculo>(dr);
+                    while (dr.Read())
+                    {
+                        ExObject user = new ExObject();
+                        user.Identificador = (Decimal)dr["Identificador"];
+                        user.Descripcion = (String)dr["Descripcion"];
+                        vehiculos.Add(user);
+                    }
                 }
             }
             catch (Exception ex)
