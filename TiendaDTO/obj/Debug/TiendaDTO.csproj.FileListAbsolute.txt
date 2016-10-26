@@ -1,0 +1,5 @@
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDTO\bin\Debug\TiendaDTO.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDTO\bin\Debug\TiendaDTO.pdb
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDTO\obj\Debug\TiendaDTO.csprojResolveAssemblyReference.cache
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDTO\obj\Debug\TiendaDTO.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDTO\obj\Debug\TiendaDTO.pdb

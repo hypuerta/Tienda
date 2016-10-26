@@ -1,0 +1,9 @@
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\bin\Debug\TiendaBL.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\bin\Debug\TiendaBL.pdb
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\bin\Debug\TiendaDAL.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\bin\Debug\TiendaDTO.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\bin\Debug\TiendaDAL.pdb
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\bin\Debug\TiendaDTO.pdb
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\obj\Debug\TiendaBL.csprojResolveAssemblyReference.cache
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\obj\Debug\TiendaBL.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaBL\obj\Debug\TiendaBL.pdb

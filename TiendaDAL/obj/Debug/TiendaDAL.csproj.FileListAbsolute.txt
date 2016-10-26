@@ -1,0 +1,7 @@
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDAL\bin\Debug\TiendaDAL.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDAL\bin\Debug\TiendaDAL.pdb
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDAL\bin\Debug\TiendaDTO.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDAL\bin\Debug\TiendaDTO.pdb
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDAL\obj\Debug\TiendaDAL.csprojResolveAssemblyReference.cache
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDAL\obj\Debug\TiendaDAL.dll
+c:\users\herley\documents\visual studio 2015\Projects\Tienda\TiendaDAL\obj\Debug\TiendaDAL.pdb
